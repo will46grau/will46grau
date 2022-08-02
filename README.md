@@ -1,0 +1,4 @@
+- 👋 ola meu nome e @will46grau
+- :+1: meu email de contato e willian.oliveira.silva@escola.pr.gov.br
+- 👀 eu estou interessado em aprender a programar novas linguagens
+- 🌱 eu estou a aprendendo a programar recentemente a linguagen do javascript e scratch
